@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Observer And Observable</string>
+    <string name="action_settings">Settings</string>
+</resources>
